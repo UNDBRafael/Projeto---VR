@@ -1,0 +1,39 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Asset meta data should be tracked, but not as a build artifact
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Crashlytics
+crashlytics-build.properties
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressableAssetsData/*/*.bin*
+
+# Asset bundles
+*.bundle
